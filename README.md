@@ -25,8 +25,8 @@
 > Thực hiện theo các bước sau để cài đặt và kiểm tra ứng dụng:
 
 ```
-git clone https://github.com/park-eco/park-eco-mobile-manager.git
-cd Smart_Alarm
+git clone https://github.com/hoangvip04648/fruit_store.git
+cd fruit_store_app
 npm install
 ```
 
@@ -44,7 +44,7 @@ react-native run-android
 
 ## Tải bản demo
 
-> Bạn có thể tải xuống APK demo: Cập nhật sớm
+> Bạn có thể tải xuống APK demo: https://drive.google.com/file/d/10OIM25thr1XssICUK1l-NRvOdJ4Z-RR0/view?usp=sharing
 
 ## Công nghệ
 
